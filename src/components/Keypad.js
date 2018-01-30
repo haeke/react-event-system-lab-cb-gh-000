@@ -5,6 +5,7 @@ class Keypad extends Component {
   automatedMessage() {
     console.log('Entering password...');
   }
+
   render() {
     return (
       <div>
